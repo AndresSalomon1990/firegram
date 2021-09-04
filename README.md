@@ -1,3 +1,11 @@
+# Firegram
+
+A photo app built with React and Firebase. You can upload photos and visualize them in a nice way.
+
+It uses simple React, custom hooks, Framer Motion, Firebase/Firestore and Firebase/Storage.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
